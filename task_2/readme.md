@@ -1,6 +1,7 @@
 ## Results
 
 Method Monte Carlo: 2.666488
+
 Method quad from SciPy.integrate: 2.6666666666666665
 
 ### Висновок
